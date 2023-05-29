@@ -8,6 +8,7 @@ Aina Garí Soler, Matthieu Labeau and Chloé Clavel (2023). Measuring Lexico-Sem
 ### 1. Preparing the data (IQ2 debates corpus)
 
 First, we need to load the debates and save them in the jsonlines format that is necessary to run the coreference solver. This step is necessary even if you do not plan to run a coreference solving model afterwards.
+To load the corpus you will need to install the [convokit](https://convokit.cornell.edu/documentation/) Python library.
 
 ``python convert_debates_to_codicrac_input_format.py --out_dir [OUTPUT DIRECTORY]``
 
