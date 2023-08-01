@@ -2,8 +2,7 @@
 
 This repository contains code for the paper:
 
-Aina Garí Soler, Matthieu Labeau and Chloé Clavel (2023). Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations. To appear in Proceedings of the 1st Workshop on Social Influence in Conversations (SICon), Toronto, Canada, July 14
-
+Aina Garí Soler, Matthieu Labeau and Chloé Clavel (2023). [Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations](https://aclanthology.org/2023.sicon-1.6/). In Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023), Toronto, Canada, July 14.
 
 ### 1. Preparing the data (IQ2 debates corpus)
 
@@ -86,7 +85,23 @@ The leave-one-out classification experiments can be run in the ``classification.
 
 #### Citation
 
-If you use the code in this repository, please cite our paper! (BibTeX coming soon)
+If you use the code in this repository, please cite our paper:
+
+```
+@inproceedings{gari-soler-etal-2023-measuring,
+    title = "Measuring Lexico-Semantic Alignment in Debates with Contextualized Word Representations",
+    author = "Gar{\'\i} Soler, Aina  and
+      Labeau, Matthieu  and
+      Clavel, Chlo{\'e}",
+    booktitle = "Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sicon-1.6",
+    pages = "50--63",  
+}
+```
 
 
 #### Contact
