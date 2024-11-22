@@ -106,7 +106,7 @@ If you use the code in this repository, please cite our paper:
 
 #### Contact
 
-For any questions or requests feel free to contact me: aina dot garisoler at telecom-paris dot fr
+For any questions or requests feel free to [contact me](https://ainagari.github.io/menu/contact.html).
 
 
 #### References
